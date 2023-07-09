@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kikibyt
-- 👀 I’m interested in software development and artificial intelligence
+- 👀 I’m an artificial intelligence developer
 - 🌱 I’m currently learning Robotics
 - 💞️ I’m looking to collaborate on a software dev project or artificial intelligence projects
 - 📫 Reach me at mercyokebiorun@gmail.com
