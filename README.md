@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kikibyt
-- 👀 I’m an artificial intelligence developer
+- 👀 I’m an Data Scientist
 - 🌱 I’m currently learning Robotics
-- 💞️ I’m looking to collaborate on a software dev project or artificial intelligence projects
+- 💞️ I’m looking to collaborate on Machine Learning projects or artificial intelligence projects
 - 📫 Reach me at mercyokebiorun@gmail.com
 
 <!---
