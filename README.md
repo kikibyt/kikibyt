@@ -57,13 +57,17 @@ From visualizing AI insights to launching real-world systems, I build software t
 
 <p align="center">
   <!-- Replace with your own demo images -->
-  ![dd2](https://github.com/user-attachments/assets/dffaff53-9162-4ac8-a0de-dc5e754c1019)
-  ![dd3](https://github.com/user-attachments/assets/406f1433-4c34-41fe-8fd1-5698fa39317b)
-  ![dd](https://github.com/user-attachments/assets/d4b3f0ae-e19a-4468-81f1-6b869e1d1166)
+ 
 
   <img src="https://github.com/kikibyt/kikibyt-/blob/main/ChartGo_20250528104431.png" width="400px" alt="Tech Pie Chart" />
   <!-- <img src="https://your-image-link.com/inventory-demo.png" width="400px"/> -->
 </p>
+![dd3](https://github.com/user-attachments/assets/ae7454cf-91b4-4c88-ac5b-6d4f3a20171c)
+
+
+https://github.com/user-attachments/assets/aab96d3d-ac9e-43da-bdc9-d21767fd700f
+
+![dd2](https://github.com/user-attachments/assets/6a1b7ad0-890a-46fa-81e5-ac433c3e5384)
 
 ---
 
