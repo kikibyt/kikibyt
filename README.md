@@ -24,6 +24,18 @@
 
 ---
 
+### 👩🏾‍💻 About Me
+
+Hi! I'm Mercy — I am a software developer passionate about merging human-centered design with cutting-edge AI and data-driven systems. Whether it’s turning raw numbers into visual stories, or building apps that empower, I craft tech with meaning and heart.
+
+<!-- Add portfolio screenshots or featured project images below -->
+<p align="center">
+  <!-- Example image (replace with your own) -->
+  <!-- <img src="https://your-image-link.com/demo1.png" width="600"/> -->
+</p>
+
+---
+
 ### 💼 Current Role
 
 🧩 **Senior Data Visualization Engineer – [Spiritual Data](https://spiritualdata.org)**  
