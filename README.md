@@ -46,16 +46,10 @@ From visualizing AI insights to launching real-world systems, I build software t
 <p align="center">
   <img src="https://img.shields.io/badge/Real-time ML Dashboards-FFC0CB?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/IEEE Innovation Award-Winner-A678B4?style=for-the-badge&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP & CV Solutions for Health & Hiring-FF69B4?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP & CV for Health & Hiring-FF69B4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inventory System-Tokyo Computers-FFB6C1?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreelanceHub Demo-Launched-C38EC7?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-
-#### 💡 New Projects
-
-- 🛒 **Inventory Management System for Tokyo Computers**  
-  > Built a full-stack inventory solution with QR code scanning, delivery notes, and real-time stock updates — *beautiful, fast, and intuitive.*
-
-- 👩🏾‍💻 **[FreelanceHub](https://freelancehub-client.vercel.app)** – A Freelance Marketplace Demo  
-  > A platform to showcase freelancer resumes, auto-generate profiles with AI, and recommend jobs. Design? ✨ **Soft green & cream UI magic.**
 
 ---
 
@@ -71,9 +65,41 @@ From visualizing AI insights to launching real-world systems, I build software t
 
 ## 🧁 Tech Toolbox
 
-| 👩🏾‍💻 Languages | 🧠 Frameworks | ⚙️ Tools | 📊 Data & ML |
-|----------------|---------------|----------|-------------|
-| ![Python](https://img.shields.io/badge/-Python-C38EC7?logo=python&logoColor=white&style=flat) ![R](https://img.shields.io/badge/-R-DB7093?logo=r&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-9370DB?logo=postgresql&logoColor=white&style=flat) | ![Flask](https://img.shields.io/badge/-Flask-8A2BE2?logo=flask&logoColor=white&style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF69B4?logo=streamlit&logoColor=white&style=flat) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F61?logo=tensorflow&logoColor=white&style=flat) | ![Docker](https://img.shields.io/badge/-Docker-BA55D3?logo=docker&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-FF69B4?logo=git&logoColor=white&style=flat) ![GitHub Actions](https://img.shields.io/badge/-CI/CD-A678B4?logo=githubactions&logoColor=white&style=flat) | ![Pandas](https://img.shields.io/badge/-Pandas-FFC0CB?logo=pandas&logoColor=white&style=flat) ![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-A678B4?logo=scikitlearn&logoColor=white&style=flat) |
+### 💬 Languages
+![Python](https://img.shields.io/badge/-Python-C38EC7?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFB6C1?logo=javascript&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-8A2BE2?logo=typescript&logoColor=white&style=flat)
+![R](https://img.shields.io/badge/-R-DB7093?logo=r&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-9370DB?logo=postgresql&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-FC8EAC?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-E6A8D7?logo=css3&logoColor=white&style=flat)
+
+### 🧠 Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-BA55D3?logo=react&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-3B0A55?logo=nextdotjs&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-A678B4?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-9370DB?logo=express&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/-Flask-8A2BE2?logo=flask&logoColor=white&style=flat)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF69B4?logo=streamlit&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F61?logo=tensorflow&logoColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-FF1493?logo=keras&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-DB70C3?logo=tailwindcss&logoColor=white&style=flat)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-FF69B4?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-BA55D3?logo=docker&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-CI/CD-A678B4?logo=githubactions&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFA07A?logo=firebase&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-AC85C7?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-9370DB?logo=postgresql&logoColor=white&style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-FFC0CB?logo=vercel&logoColor=white&style=flat)
+
+### 📊 Data & ML
+![Pandas](https://img.shields.io/badge/-Pandas-FFC0CB?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-C38EC7?logo=numpy&logoColor=white&style=flat)
+![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-A678B4?logo=scikitlearn&logoColor=white&style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-FF69B4?logo=opencv&logoColor=white&style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-BA55D3?logo=openai&logoColor=white&style=flat)
 
 ---
 
